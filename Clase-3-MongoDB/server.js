@@ -15,7 +15,9 @@ const products = [
         title: 'Tv samsung 50"',
         price: 400000,
         id: 1
+        
     },
+    
     {
         title: 'Tv samsung 32"',
         price: 200000,
